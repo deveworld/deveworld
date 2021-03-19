@@ -7,10 +7,10 @@
 
 ### You may contact us as follows:
 <p align="left">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" />World#7909
+<a><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg"" height="30" width="40" />World#7909</a>
 </p>
 
 ## My Stats
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsim415&show_icons=true&theme=nord&line_height=35" /></p>
+<p>&nbsp;<a><img align="center" src="https://github-readme-stats.vercel.app/api?username=mcsim415&show_icons=true&theme=nord&line_height=35" /></a></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcsim415&" /></p>
+<p></a><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mcsim415&" /></a></p>
