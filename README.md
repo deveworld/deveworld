@@ -1,7 +1,6 @@
 <h1 align="center">Hello, I'm World!</h1>
-<h3 align="center">I'm really into MinecraftBE!</h3>
+<h3 align="center">I'm really into MinecraftJE/BE!</h3>
 
-- I’m currently working on **Parkour** Plugin.
 - I'm not busy, So you can contact me.
 <br>
 
