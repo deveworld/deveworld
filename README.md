@@ -4,7 +4,7 @@
 - I'm not busy, So you can contact me.
 <br>
 
-### You may contact us as follows:
+### You may contact me as follows:
 <p align="left">
 	<a href="#">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" />
