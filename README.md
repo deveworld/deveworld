@@ -1,5 +1,5 @@
 <h1 align="center">Hello, I'm World!</h1>
-<h3 align="center">I'm 14-year-old student, a hobby developer.<BR> I'm really into MinecraftJE/BE!</h3>
+<h3 align="center">I'm really into MinecraftJE/BE!</h3>
 
 - I'm not busy, So you can contact me.
 <br>
