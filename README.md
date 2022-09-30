@@ -18,8 +18,8 @@
 ## My Stats
 <p align="center">
 	<a href="#">
-		<img src="https://github-readme-stats.vercel.app/api?username=mcsim415&show_icons=true&theme=nord&line_height=35" />
-		<img src="https://github-readme-streak-stats.herokuapp.com/?user=mcsim415&theme=nord" />
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcsim415&layout=compact&theme=nord" />
+		<img src="https://github-readme-stats.vercel.app/api?username=deveworld&show_icons=true&theme=nord&line_height=35" />
+		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveworld&theme=nord" />
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveworld&layout=compact&theme=nord" />
 	</a>
 </p>
