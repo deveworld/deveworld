@@ -12,7 +12,7 @@
 	<a href="#">
 		<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" height="30" width="40" />
 	</a>
-	<strong>World#7909</strong>
+	<strong>deworld (formerly known as World#7909)</strong>
 </p>
 
 ## My Stats
