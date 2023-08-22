@@ -18,7 +18,7 @@
 ## My Stats
 <p align="center">
 	<a href="#">
-		<img src="https://github-readme-stats.vercel.app/api?username=deveworld&show_icons=true&theme=nord&line_height=35" />
+		<img src="https://github-readme-stats.vercel.app/api?username=deveworld&rank_icon=github&show_icons=true&theme=nord&line_height=35" />
 		<img src="https://github-readme-streak-stats.herokuapp.com/?user=deveworld&theme=nord" />
 		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=deveworld&layout=compact&theme=nord" />
 	</a>
