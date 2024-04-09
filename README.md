@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'm World!</h1>
 
-- **I am currently refactoring the physical engine in cpp SFML**
+- **I am currently fine tuning gemma for Korean translation, the project Gemago**
 <p align="left">
 	<img align="center" src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fmcsim415&count_bg=%234ACA98&title_bg=%23555555&icon=github.svg&icon_color=%23F3F3F3&title=hits&edge_flat=false" />
 </p>
